@@ -59,6 +59,4 @@ A sua forma de priorizar a entrega também vai ser considerada. Escreva no READM
 
 ---
 
-Em caso de dúvidas, [abra uma issue](https://github.com/chaordic/frontend-intern-challenge/issues).
-
 **Boa sorte =]**
